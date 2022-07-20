@@ -8,15 +8,14 @@ A basic GitHub repository template for initializing open source projects on a si
 ## Contents
 
 1. [Description](#description)
-1. [Project structure](#project-structure)
-1. [Project roadmap](#project-roadmap)
-1. [Getting started](#getting-started)
-1. [Live demo](#live-demo)
-1. [Built with](#built-with)
-1. [Contributing](#contributing)
-1. [Authors](#authors)
-1. [License](#license)
-1. [Acknowledgments](#acknowledgments)
+2. [Project structure](#project-structure)
+3. [Datasets](#Datasets)
+4. [Project roadmap](#project-roadmap)
+5. [Getting started](#getting-started)
+6. [Contributing](#contributing)
+7. [Authors](#authors)
+8. [License](#license)
+9. [Acknowledgments](#acknowledgments)
 
 ## Description
 Who does not love Movies? 
