@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-[![Contributors](https://img.shields.io/github/contributors/dsckgec/project-template.svg)](https://github.com/dsckgec/project-template/graphs/contributors) [![Forks](https://img.shields.io/github/forks/dsckgec/project-template.svg)](https://github.com/dsckgec/project-template/network/members) [![Issues](https://img.shields.io/github/issues/dsckgec/project-template.svg)](https://github.com/dsckgec/project-template/issues) [![Pull Request](https://img.shields.io/github/issues-pr-closed-raw/dsckgec/project-template)](https://github.com/dsckgec/project-template/pulls)
+[![Contributors](https://img.shields.io/github/contributors/dsckgec/project-template.svg)](https://github.com/dsckgec/MovieRecommendationSystem/graphs/contributors) [![Forks](https://img.shields.io/github/forks/dsckgec/project-template.svg)](https://github.com/dsckgec/MovieRecommendationSystem/network/members) [![Issues](https://img.shields.io/github/issues/dsckgec/project-template.svg)](https://github.com/dsckgec/MovieRecommendationSystem/issues) [![Pull Request](https://img.shields.io/github/issues-pr-closed-raw/dsckgec/project-template)](https://github.com/dsckgecMovieRecommendationSystem/pulls)
 
 
 ## Contents
@@ -120,8 +120,8 @@ Contributing is also a great way to learn more about social coding on Github, ne
 
 ## Authors
 
-<a href="https://github.com/DSCKGEC/project-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=DSCKGEC/project-template" />
+<a href="https://github.com/DSCKGEC/MovieRecommendationSystem/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=DSCKGEC/MovieRecommendationSystem" />
 </a>
 
 ## License
