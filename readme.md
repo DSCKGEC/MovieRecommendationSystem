@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-[![Contributors](https://img.shields.io/github/contributors/dsckgec/project-template.svg)](https://github.com/dsckgec/MovieRecommendationSystem/graphs/contributors) [![Forks](https://img.shields.io/github/forks/dsckgec/project-template.svg)](https://github.com/dsckgec/MovieRecommendationSystem/network/members) [![Issues](https://img.shields.io/github/issues/dsckgec/project-template.svg)](https://github.com/dsckgec/MovieRecommendationSystem/issues) [![Pull Request](https://img.shields.io/github/issues-pr-closed-raw/dsckgec/project-template)](https://github.com/dsckgecMovieRecommendationSystem/pulls)
+[![Contributors](https://img.shields.io/github/contributors/dsckgec/MovieRecommendationSystem.svg)](https://github.com/dsckgec/MovieRecommendationSystem/graphs/contributors) [![Forks](https://img.shields.io/github/forks/dsckgec/MovieRecommendationSystem.svg)](https://github.com/dsckgec/MovieRecommendationSystem/network/members) [![Issues](https://img.shields.io/github/issues/dsckgec/MovieRecommendationSystem.svg)](https://github.com/dsckgec/MovieRecommendationSystem/issues) [![Pull Request](https://img.shields.io/github/issues-pr-closed-raw/dsckgec/MovieRecommendationSystem)](https://github.com/dsckgecMovieRecommendationSystem/pulls)
 
 
 ## Contents
