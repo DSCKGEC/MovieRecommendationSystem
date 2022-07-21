@@ -10,12 +10,13 @@ A basic GitHub repository template for initializing open source projects on a si
 1. [Description](#description)
 2. [Project structure](#project-structure)
 3. [Datasets](#Datasets)
-4. [Project roadmap](#project-roadmap)
-5. [Getting started](#getting-started)
-6. [Contributing](#contributing)
-7. [Authors](#authors)
-8. [License](#license)
-9. [Acknowledgments](#acknowledgments)
+4. [Project Overview](#Project-overview)
+5. [Project roadmap](#project-roadmap)
+6. [Getting started](#getting-started)
+7. [Contributing](#contributing)
+8. [Authors](#authors)
+9. [License](#license)
+10. [Acknowledgments](#acknowledgments)
 
 ## Description
 Who does not love Movies? 
@@ -30,6 +31,9 @@ The DataSet was scraped from https://www.kaggle.com/datasets/tmdb/tmdb-movie-met
 ## Datasets
   - `movies.csv` is the dataset for Data Cleaning and Preprocessing and Recommendation Systems Section of the notebook
   - `tmdb_5000_credits.csv` and `tmdb_5000_movies.csv` are the datasets for the notebook Data Visualization and Revenue Prediction Sections of the Notebook
+
+## Project Overview
+ - `https://colab.research.google.com/github/Mangalam0512/Movie-Recomendation/blob/main/Notebook/MovieRecommendation.ipynb` link of the colab Notebook
 
 ## Project roadmap
 
