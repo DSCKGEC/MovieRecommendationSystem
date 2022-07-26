@@ -20,6 +20,11 @@
 Who does not love Movies? 
 The DataSet was scraped from https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata and includes all the major Movies and the information relevent to it.
 
+### Point System 
+- `Easy` Tag issues will fetch you 100 Points.
+- `Medium` Tag issues will fetch you 200 Points.
+- `Hard` Tag issues will fetch you 300 Points.
+
 
 
 ## Project structure
